@@ -50,12 +50,12 @@ function sfondo(){
 
 
 }
-function bordo(){
+/*function bordo(){
     if(getComputedStyle(border).visibility=="hidden")
         border.style.visibility="visible";
     else
         border.style.visibility="hidden";
-}
+}*/
 let aus;
 function immagine(aus) {
     if(aus==1)
