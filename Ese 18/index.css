@@ -1,0 +1,17 @@
+#wrapper{
+    margin:0 auto;
+    background-color: blue;
+    text-align: center;
+    width: 700px;
+    height: 1000px;
+    border-radius: 15px;
+}
+html{
+    background-color: lightblue;
+    font-family: Arial;
+}
+div#imgBox{
+    width: 200px;
+    height: 300px;
+    margin: 0 auto;
+}
