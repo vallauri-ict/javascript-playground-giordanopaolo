@@ -1,0 +1,25 @@
+#wrapper{
+    margin:0 auto;
+    background-color: blue;
+    text-align: center;
+    width: 700px;
+    height: 1000px;
+    border-radius: 15px;
+}
+input{
+    margin: 20px auto;
+}
+html{
+    margin:30px auto;
+    background-color: lightblue;
+    font-family: Arial;
+}
+div#imgBox{
+    width: 200px;
+    height: 300px;
+    margin: 30px auto;
+}
+.red-border
+{
+    border: 1px solid red;
+}
