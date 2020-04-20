@@ -1,0 +1,31 @@
+#wrapper{
+    text-align: center;
+    width: 700px;
+    margin: 0 auto;
+}
+input,select,textarea{
+    min-height: 30px;
+    min-width: 100px;
+    margin: 10px auto;
+    border: 2px;
+    border-bottom: 2px solid black;
+    box-shadow: 3px 3px 6px black;
+}
+html{
+    margin:30px auto;
+    background-color: white;
+    font-family: Arial;
+}
+div#imgBox{
+    width: 200px;
+    height: 300px;
+    margin: 30px auto;
+}
+.red-border
+{
+    border: 1px solid red;
+}
+input[type="text"]:disabled
+{
+    background: #ddd;
+}
