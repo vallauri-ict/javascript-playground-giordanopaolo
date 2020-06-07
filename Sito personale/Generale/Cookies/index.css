@@ -1,0 +1,77 @@
+#bg{
+    background-attachment: fixed;
+    background-image: url("../bg.jpg");
+    background-size: cover;
+}
+#d1{
+    background-image: url("img/back.jpg");
+    background-position: center;
+    background-size: cover;
+    transition: 0.5s;
+}
+#d2{
+    background-image: url("img/palestra.jpg");
+    background-position: center;
+    background-size: cover;
+    transition: 0.5s;
+}
+#d3{
+    background-image: url("img/Made_in_Abyss_manga.jpg");
+    background-position: center;    background-size: cover;
+    transition: 0.5s;
+}
+#d4{
+    background-image: url("img/isaac.jpg");
+    background-position: center;
+    background-size: cover;
+    transition: 0.5s;
+}
+#d5{
+    background-image: url("");
+    background-position: center;
+    background-size: cover;
+    transition: 0.5s;
+}
+#d1:hover{
+    cursor: pointer;
+
+}
+#d2:hover{
+    width: 50% !important;
+    cursor: pointer;
+}
+#d3:hover{
+    width: 50% !important;
+    cursor: pointer;
+
+}
+#d4:hover{
+    width: 50% !important;
+    cursor: pointer;
+
+}
+#d5:hover{
+    width: 50% !important;
+    cursor: pointer;
+
+}
+#sfondino{
+    background: rgba(0, 0, 0, 0.3);
+}
+.footer-copyright {
+    color: #666;
+    padding: 40px 0;
+}
+.page-footer {
+    background-color: #222;
+    color: white;
+    padding: 60px 0 30px;
+    font-size: 15pt;
+}
+.testi{
+    margin: 20px auto;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: italic;
+    color: white;
+}

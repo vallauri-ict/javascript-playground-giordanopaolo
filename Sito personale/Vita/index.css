@@ -1,0 +1,36 @@
+#bg{
+    background-image: url(../Generale/bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.bg{
+    background: rgba(0, 200, 255, 0.7) !important;
+}
+@font-face{
+    font-family: PWPerspective;
+    src: local(PWPerspective),
+    url(Comic\ Kings.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: font;
+    src: local(font),
+    url(Gatty-ExtraBold.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+h1{
+     font-family: PWPerspective;
+     text-shadow: 2px 2px 2px white;
+
+}
+.testi{
+    margin: 20px auto;
+    font-size: large;
+    color: white;
+}
+#sfondino{
+    background: rgba(0, 0, 0, 0.6);
+}

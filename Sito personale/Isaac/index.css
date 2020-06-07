@@ -1,0 +1,158 @@
+#bg{
+	background-image: url("img/back.png");
+    background-position: center;
+    background-attachment: fixed;
+    z-index: -1;
+
+}
+.my-col{
+    color: white;
+	margin: 0 auto;
+	
+}
+.prs{
+    margin: 0 auto;
+}
+div#personaggi{
+	background-image: url("img/tboi-rebirth-5.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	margin: 0 auto;
+	
+ }
+ @media screen and (max-width: 1920px) {
+    img.forg{
+        width: 250px !important;
+		height: 200px !important;
+    }
+	img.prs{
+		width: 200px !important;
+		height: 200px !important;
+	}
+	#video{
+		width: 1100px !important;
+		height: 400px !important;
+	}
+
+}
+@media screen and (max-width: 1080px) {
+    img.forg{
+        width: 250px !important;
+		height: 200px !important;
+    }
+	img.prs{
+		width: 200px !important;
+		height: 200px !important;
+	}
+	#video{
+		width: 600px !important;
+		height: 200px !important;
+	}
+
+}
+@media screen and (max-width: 720px) {
+    img.forg{
+        width: 250px !important;
+		height: 200px !important;
+    }
+	img.prs{
+		width: 200px !important;
+		height: 200px !important;
+	}
+	#video{
+		width: 550px !important;
+		height: 180px !important;
+	}
+}
+@media screen and (max-width: 550px) {
+    img.forg{
+        width: 125px !important;
+		height: 100px !important;
+    }
+	img.prs{
+		width: 100px !important;
+		height: 100px !important;
+	}
+	#video{
+		width: 300px !important;
+		height: 100px !important;
+	}
+}
+@media screen and (max-width: 480px) {
+    img.forg{
+        width: 125px !important;
+		height: 100px !important;
+    }
+	img.prs{
+		width: 100px !important;
+		height: 100px !important;
+	}
+	#contatti a div{
+	    width: 50px !important;
+		height: 50px !important;
+	}
+	#contatti{
+		width: 200px !important;
+	}
+	#video{
+		width: 300px !important;
+		height: 150px !important;
+	}
+}
+@media screen and (max-width: 360px) {
+    img.forg{
+        width: 75px !important;
+		height: 50px !important;
+    }
+	img.prs{
+		width: 50px !important;
+		height: 50px !important;
+	}
+	#contatti a div{
+		width: 50px !important;
+		height: 50px !important;
+	}
+	#contatti{
+		width: 200px !important;
+	}
+	#video{
+		width: 150px !important;
+		height: 80px !important;
+	}
+}
+@media screen and (max-width: 240px) {
+    img.forg{
+        width: 75px !important;
+		height: 50px !important;
+    }
+	img.prs{
+		width: 50px !important;
+		height: 50px !important;
+	}
+
+	#contatti a div{
+		width: 50px !important;
+		height: 50px !important;
+	}
+	#contatti{
+		width: 200px !important;
+	}
+}
+@media screen and (max-width: 144px) {
+    img.forg{
+        width:70px !important;
+		height: 50px !important;
+    }
+	img.prs{
+		width: 50px !important;
+		height: 50px !important;
+	}
+	#contatti a div{
+		width: 50px !important;
+		height: 50px !important;
+	}
+	#contatti{
+		width: 200px !important;
+	}
+}

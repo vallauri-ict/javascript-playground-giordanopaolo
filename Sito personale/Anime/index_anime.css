@@ -1,0 +1,131 @@
+.header {
+    background-image: url('img/096df0eb195b8f0d9475924f9a1e9425.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 500px;
+}
+.na {
+    z-index: 500;
+}
+.my-container {
+    border: 3px solid white;
+}
+
+.my-row {
+    height: auto;
+}
+
+.my-col {
+    margin: 0 auto;
+}
+.my-colfr {
+    margin: 0 auto;
+}
+.cont {
+    
+    text-align: center;
+}
+
+.description h1 {
+    color: white;
+    line-height: 110px;
+    transition: 1s;
+}
+
+.description p {
+    color: #fff;
+    font-size: 13pt;
+    line-height: 1.5;
+    opacity: 0;
+    transition: 0.4s;
+}
+.description:hover p {
+    opacity: 1;
+    font-size: 13pt;
+}
+.description{
+    opacity: 1;
+    transition: 1.5s;
+}
+div.description:hover{
+    background: rgba(0, 0, 0, 0.7) !important;
+    
+}
+#mia{
+    background-image: url(img/wp2416043.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+#vl{
+    background-image: url(img/vs.png);
+    background-size: cover;
+    background-position: center;
+}
+#dn{
+    background-image: url(img/desnoto.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+#kim{
+    background-image: url(img/kim.jpg);
+    background-size: cover;
+}
+#detectivec{
+    background-image: url(img/detective.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#baki{
+    background-image: url(img/baki2.png);
+    background-size: cover;
+    background-position: center;
+}
+#kuroko{
+    background-image: url(img/Kuroko1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#bokunohero{
+    background-image: url(img/bnh.png);
+    background-size: cover;
+}
+#haikyuu{
+    background-image: url(img/anime-volleyball-Haikyuu.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+#hero{
+    background-image: url(img/trotsh.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#ys{
+    background-image: url(img/ys.jpg);
+    background-size: cover;
+}
+#ngnl{
+    background-image: url(Img/ngnl.jpg);
+    background-size: cover;
+}
+.hover1:hover{
+    background-color: blue !important;
+}
+.testi{
+    margin: 20px auto;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: italic;
+    text-shadow: 1px 1px 1px black;
+    color: white;
+}
+.shig{
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    border-radius: 5px;
+    box-shadow:3px 3px 5px cyan,
+    -3px -3px 5px cyan;
+}
